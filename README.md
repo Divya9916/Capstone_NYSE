@@ -19,23 +19,14 @@ DAX – KPIs and calculated measures
 ## Project Structure
 <img width="795" height="191" alt="image" src="https://github.com/user-attachments/assets/a00daa61-9942-4652-a390-dbd972d91dcb" />
 
-
 # Dashboard 
 <img width="1044" height="583" alt="image" src="https://github.com/user-attachments/assets/a42b64b6-2649-4a4b-be6a-94d1726ecf05" />
-
-
-
+/n
 <img width="1039" height="580" alt="image" src="https://github.com/user-attachments/assets/3bbb4e8b-fed1-4dce-bf5a-34320a8650e2" />
-
-
-
+/n
 <img width="1039" height="578" alt="image" src="https://github.com/user-attachments/assets/e314961d-4ae6-44b3-b6ef-57871133671c" />
-
-
-
+/n
 <img width="1043" height="587" alt="image" src="https://github.com/user-attachments/assets/2e287763-beb0-4db4-8d0b-d3cfc7140211" />
-
-
 
 
 ## Key Analysis Performed
